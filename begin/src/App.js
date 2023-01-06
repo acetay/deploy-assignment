@@ -29,7 +29,7 @@ function App() {
   };
 
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         {/* undefined route*/}
         <Route path="*" element={<DefaultPage />} />
@@ -54,7 +54,7 @@ function App() {
           />
         </Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
