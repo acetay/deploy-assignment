@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deploy-assignment/static/css/main.d3a31eac.css",
+    "main.js": "/deploy-assignment/static/js/main.e89200c0.js",
+    "index.html": "/deploy-assignment/index.html",
+    "main.d3a31eac.css.map": "/deploy-assignment/static/css/main.d3a31eac.css.map",
+    "main.e89200c0.js.map": "/deploy-assignment/static/js/main.e89200c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3a31eac.css",
+    "static/js/main.e89200c0.js"
+  ]
+}
